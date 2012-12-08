@@ -3,7 +3,7 @@ Pencil - A Simple, Distraction Free Markdown Editor
 
 I made Pencil because I needed an ** *immersive, distraction free and simple* ** environment to write out my ideas, blog posts, notes etc. Most of the 'distraction-free' editors available did not satisfy me. They either had interfaces that got in the way, or had hideous backgrounds, or had color schemes that hurt my eye. To top it off they were impossible to use on my phone or iPad. 
 
-So, here's [Pencil](/). Handles the **tab key** properly, easy to use on any screen size and **extremely minimal interface**.
+So, here's [Pencil](http://pencil.asleepysamurai.com). Handles the **tab key** properly, easy to use on any screen size and **extremely minimal interface**.
 
 Just you, your text and Markdown.
 
