@@ -24,4 +24,9 @@ Our users are positively *gushing* about us:
 
 *P.S.: Hit F11 for heaven ;)*
 
+###License
+>**This code is released under the MIT license. No guarantees are meant or implied. Use at your own risk.**
+
+If you are using Pencil in your project, I would be really happy if you could link to this github repo. It's not mandatory, just a request.
+
 *A (hopefully) quality product from a sleepy samurai*
